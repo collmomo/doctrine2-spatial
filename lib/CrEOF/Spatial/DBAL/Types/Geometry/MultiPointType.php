@@ -32,7 +32,7 @@ use CrEOF\Spatial\PHP\Types\Geometry\GeometryInterface;
  * @author  Derek J. Lambert <dlambert@dereklambert.com>
  * @license http://dlambert.mit-license.org MIT
  */
-class MultiPolygonType extends GeometryType
+class MultiPointType extends GeometryType
 {
     /**
      * {@inheritdoc}
